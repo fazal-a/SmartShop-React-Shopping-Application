@@ -1,0 +1,23 @@
+.button {
+  display: flex;
+  align-items: center;
+  /* padding: 0.1rem; */
+  background-color: #1779ba;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  height: 50px;
+  width: 170px;
+  justify-content: space-between;
+  padding-right: 10px;
+  padding-left: 10px;
+  color: white;
+  border-radius: 50px;
+  border-color: brown;
+}
+.button:hover {
+  background-color: #115b8d;
+}
+.h2 {
+  padding-right: 10px;
+}
