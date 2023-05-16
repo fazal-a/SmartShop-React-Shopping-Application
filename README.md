@@ -1,7 +1,5 @@
 # SmartShop - React Shopping Application
 
-![SmartShop](https://github.com/fazal-a/ReactShoppingApp/raw/main/screenshot.png)
-
 SmartShop is a web-based shopping application built using React.js. It provides a user-friendly interface for browsing and purchasing products online. Explore a wide range of products and enjoy a seamless shopping experience.
 
 ## Description
